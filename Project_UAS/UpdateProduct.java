@@ -11,7 +11,9 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Lenovo ID
+ * @author Alfarizi Bima Setyawan
+ * Kelas Pemrogaman Berorientasi Objek - 2B
+ * Alfarizi311215@gmail.com
  */
 public class UpdateProduct extends javax.swing.JFrame {
 
