@@ -7,9 +7,9 @@ package Project_UAS;
 
 /**
  *
- * @author Muhamad Fajar
- * Kelas Pemrograman Berorientasi Objek - 2B
- * email : fajarmhmd2121@gmail.com
+ * @author Alfarizi Bima Setyawan
+ * Kelas Pemrogaman Berorientasi Objek - 2B
+ * Alfarizi311215@gmail.com
  */
 public class ProductDasar {
     protected int kode;
